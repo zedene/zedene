@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm José Dené</h1>
-<h3 align="center">A Software Engineering student and currently studying python/sql directly from Brazil</h3>
+<h3 align="center">A Software Engineering student and currently studying python directly from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zedene&label=Profile%20views&color=0e75b6&style=flat" alt="zedene" /> </p>
 
